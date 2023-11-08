@@ -7,7 +7,7 @@ Eramood on the web.I'm a passionate frontend developer (currently junior front e
 
 ###
 
-- 🔭 I’m currently working on [My personal website](https://github.com/Eramood/PersonalWebsite)
+- 🔭 I’m currently working on [My personal website](https://github.com/Eramood/PersonalWebsite)//pause
 
 - 📚 I’m currently learning **Java**
 
