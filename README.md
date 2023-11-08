@@ -9,7 +9,7 @@ Eramood on the web.I'm a passionate frontend developer (currently junior front e
 
 - 🔭 I’m currently working on [My personal website](https://github.com/Eramood/PersonalWebsite)
 
-- 🌱 I’m currently learning **Next.js**
+- 📚 I’m currently learning **Java**
 
 ###
 
@@ -25,6 +25,7 @@ Eramood on the web.I'm a passionate frontend developer (currently junior front e
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" width="52" alt="npm logo"  />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" width="52" alt="bootstrap logo"  />
   <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="40" width="52" alt="tailwind"  />
+  <img src="https://www.vectorlogo.zone/logos/java/java-vertical.svg" height="40" width="52"   alt="java"  />
 </div>
 
 
